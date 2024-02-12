@@ -2,7 +2,7 @@
 
 The "100 Days of Data Science Challenge" is a self-imposed learning journey where individuals dedicate time each day to study and practice data science concepts for 100 days.
 
-![Roadmap](roadmap_image.png)
+![Roadmap](https://github.com/Shivani-Sharma-23/100_Days_of_DataScience/blob/main/Data_Science_Roadmap.png)
 
 ## Resources
 
